@@ -1,4 +1,6 @@
 # Cricket_Score_Predictor
+![WASP](https://user-images.githubusercontent.com/96677478/180451351-76ed63c5-835c-4600-9304-7ff1953a3d84.png)
+
 ### **First inning ball to ball coverage of:**
  * 1474 T-20 matches -> odi(2).csv
 
